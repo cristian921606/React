@@ -1,0 +1,32 @@
+export const dataAlumno = [
+  {
+    id_alumno: 1,
+    nombres: "janssen",
+    apellidos: "segura galindo",
+    email: "seguragjj25@gmail.com",
+    telefono: "13456789",
+    dni: "77215670",
+    edad: "25",
+    id_carrera: 10,
+  },
+  {
+    id_alumno: 2,
+    nombres: "alumno 1",
+    apellidos: "juanez hernandex",
+    email: "juanez@gmail.com",
+    telefono: "900744060",
+    dni: "1234567",
+    edad: "20",
+    id_carrera: 11,
+  },
+  {
+    id_alumno: 3,
+    nombres: "elver",
+    apellidos: "galarga pizaso",
+    email: "galarga@gmail.com",
+    telefono: "3251258",
+    dni: "123456",
+    edad: "21",
+    id_carrera: 12,
+  },
+];
